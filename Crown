@@ -28,34 +28,94 @@
 		"name": "wall 5"
 
 	},
-	{
-		"author": "Resplash",
-		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/5.jpg",
-		"name": "wall 6"
+	{	"author": "Resplash",
+		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/10.jpg",
+		"name": "wall 11"
 
 	},
-	{
-		"author": "Resplash",
-		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/6.jpg",
-		"name": "wall 7"
+	{	"author": "Resplash",
+		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/11.jpg",
+		"name": "wall 12"
 
 	},
-	{
-		"author": "Resplash",
-		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/7.jpg",
-		"name": "wall 8"
+	{	"author": "Resplash",
+		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/12.jpg",
+		"name": "wall 13"
 
 	},
-	{
-		"author": "Resplash",
-		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/8.jpg",
-		"name": "wall 9"
+	{	"author": "Resplash",
+		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/13.jpg",
+		"name": "wall 14"
 
 	},
+	{	"author": "Resplash",
+		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/14.jpg",
+		"name": "wall 15"
+		
+	},
+	{	"author": "Resplash",
+		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/15.jpg",
+		"name": "wall 16"
+	
+	},
 	{
-		"author": "Resplash",
-		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/9.jpg",
-		"name": "wall 10"
-
+		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/16.jpg",
+		"name": "wall 17",
+		"author": "Resplash"
+	},
+	{	"author": "Resplash",
+		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/17.jpg",
+		"name": "wall 18"
+	
+	},
+	{	"author": "Resplash",
+		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/18.jpg",
+		"name": "wall 19"
+	
+	},
+	{	"author": "Resplash",
+		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/19.jpg",
+		"name": "wall 20"
+	
+	},
+	{	"author": "Resplash",
+		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/20.jpg",
+		"name": "wall 21"
+	
+	},
+	{	"author": "Resplash",
+		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/21.jpg",
+		"name": "wall 22"
+	
+	},
+	{	"author": "Resplash",
+		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/22.jpg",
+		"name": "wall 23"
+	
+	},
+	{	"author": "Resplash",
+		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/23.jpg",
+		"name": "wall 24"
+	
+	},
+	{	"author": "Resplash",
+		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/24.jpg",
+		"name": "wall 25"
+	
+	},
+	{	"author": "Resplash",
+		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/25.jpg",
+		"name": "wall 26"
+	
+	},
+	{	"author": "Resplash",
+		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/26.jpg",
+		"name": "wall 27"
+	
+	},
+	{	"author": "Resplash",
+		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/27.jpg",
+		"name": "wall 28"
+	
 	}
-	]
+]
