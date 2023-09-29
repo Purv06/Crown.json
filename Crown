@@ -1,5 +1,5 @@
-	[
-	{
+[
+{
 		"author": "Resplash",
 		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/1.jpg",
 		"name": "wall 1"
@@ -26,6 +26,36 @@
 		"author": "Resplash",
 		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/4.jpg",
 		"name": "wall 5"
+
+	},
+	{
+		"author": "Resplash",
+		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/5.jpg",
+		"name": "wall 6"
+
+	},
+	{
+		"author": "Resplash",
+		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/6.jpg",
+		"name": "wall 7"
+
+	},
+	{
+		"author": "Resplash",
+		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/7.jpg",
+		"name": "wall 8"
+
+	},
+	{
+		"author": "Resplash",
+		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/8.jpg",
+		"name": "wall 9"
+
+	},
+	{
+		"author": "Resplash",
+		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/9.jpg",
+		"name": "wall 10"
 
 	}
 	]
