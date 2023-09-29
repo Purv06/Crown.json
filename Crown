@@ -16,5 +16,16 @@
 		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/3.jpg",
 		"name": "wall 3"
 
+	},
+	{	"author": "Resplash",
+	     	"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/4.jpg",
+	      	"name": "wall 4"
+
+	},
+	{
+		"author": "Resplash",
+		"url": "https://raw.githubusercontent.com/Purv06/Crown.json/main/4.jpg",
+		"name": "wall 5"
+
 	}
 	]
